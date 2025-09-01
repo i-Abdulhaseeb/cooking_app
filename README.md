@@ -1,16 +1,19 @@
-# cooking_app
+🍳 Cooking App
 
-A new Flutter project.
+A Flutter-based mobile application that helps users explore different categories of food.
 
-## Getting Started
+Currently, the app includes a Category Page with a clean GridView layout to display all food categories.
 
-This project is a starting point for a Flutter application.
+🚀 Features (So far)
 
-A few resources to get you started if this is your first Flutter project:
+📂 Food Categories Page: Displays all food categories using GridView.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Modern UI: Simple and clean design for better user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+UI Components: GridView, Text, Container
