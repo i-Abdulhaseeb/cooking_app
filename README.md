@@ -1,6 +1,6 @@
-🍳 Cooking App
+# 🍳 Cooking App
 
-A Flutter-based mobile application that helps users explore different categories of food.
+## A Flutter-based mobile application that helps users explore different categories of food.
 
 Currently, the app includes a Category Page with a clean GridView layout to display all food categories.
 
